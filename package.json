@@ -1,0 +1,8 @@
+{
+    "name": "video-compressor",
+    "dependencies": {
+        "@types/ffmpeg": "^1.0.7",
+        "ffmpeg": "^0.0.4",
+        "tsx": "^4.17.0"
+    }
+}
